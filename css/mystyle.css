@@ -1,0 +1,195 @@
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+.mt50 {
+        margin-top: 50px;
+}
+.mr_l20 {
+        margin-right: 1%;
+        margin-left: 1%;
+}
+body {
+	background-color: #eee;
+}
+/*padding为0*/
+.padding_0 {
+    padding: 0;
+}
+
+/*padding为15*/
+.padding_15 {
+    padding: 15%;
+}
+/*margin为0*/
+.margin_0 {
+    margin: 0;
+}
+
+/* 轮播图 的图片大小 */
+.myplay img {
+    width: 100%;
+}
+.margintop_10 {
+	margin-top: 10px;
+}
+
+/*头部按钮样式*/
+.head_btn {
+	display: block;
+	margin-top: 20px;
+	border: none;
+}
+#head_btn span {
+	background-color: #000;
+}
+.head_btn:hover {
+	background-color: #fff;
+	color: #000;
+}
+/*头部样式*/
+.head_list {
+	background-color: #fff;
+	border: none;
+	margin-bottom: 0px;
+}
+#bgc_b span {
+	background-color: #000;
+}
+/*头部字体颜色*/
+#bgc_b+ul>li>a {
+    color: #000;
+    font-weight: 700;
+    font-size: 16px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+#padding_340 {
+    padding: 340px 15%;
+    background-color: #fff;
+}
+#show_size {
+    background-color: #fff;
+    text-align: center;
+    padding: 50% 0;
+}
+#text_center {
+	text-align: center;
+	padding: 0 25%;
+}
+#show_padd {
+	padding: 0;
+}
+/*在中等屏幕时的padding值*/
+#padding_10 {
+    padding: 10px 2%;
+    background-color: #fff;
+}
+/*登陆注册按钮样式*/
+.btn_bor {
+	border: 1px solid #00A862;
+	border-radius: 40px;
+	padding: 5px 15px;
+	font-size: 1.6rem;
+	color: #00A862;
+	margin-top: 20px;
+}
+.btn_bor_login {
+	border: none;
+}
+/*了解更多的样式*/
+.btn_more {
+	font-size: 16px;
+	color: #C2A661;
+}
+#padding_15>p {
+	font-size: 16px;
+}
+#padding_15>h3 {
+	font-size: 18px;
+	font-weight: 400;
+}
+.jumbotron {
+	margin-bottom: 0px;
+}
+.margin_0_auto {
+	margin: 25px auto;
+}
+.margin_0_auto_h3 {
+	text-align: center;
+}
+.margin_0_auto_p {
+	text-align: center;
+}
+.caption>h3 {
+	font-size: 16px;
+	width: 100%;
+	text-align: center;
+}
+.caption>p {
+	margin: 5px auto;
+	text-align: center;
+
+}
+.caption>div {
+	width: 150px;
+	margin: 5px auto;
+	text-align: center;
+
+}
+.thumbnailposi {
+	width: 162px;
+	height: 195px;
+	position: relative;
+}
+.thumbnailposi>img {
+	margin-top: -48px;
+}
+#captionpaddingtop {
+	margin-top: -40px;
+}
+#container {
+	width: 70%;
+	background-color: #eee;
+}
+.box_thumbnail {
+	width: 290px;
+	height: 240px;
+	padding-right: 20px;
+}
+#box_thumbnail {
+	width: 1200px;
+	margin-left: -30px;
+}
+.bgc_f {
+	background-color: #fff;
+}
+/*取消按钮渐变色*/
+.carousel-control.left,
+.carousel-control.right {
+	background-image: none;
+}
+/*logo的图片样式*/
+#img_logo {
+	padding-top: 90px;
+	padding-right: 0px;
+}
+.hahah {
+	z-index: 99999999999;
+}
+.hahahah {
+	z-index: 0000000000;
+}
+.add_bgc {
+	overflow: hidden;
+	padding-bottom: 80%;
+	background-color: #fff;
+}
+.div_overflow {
+	width: 124.2%;
+	padding-bottom: 20px;
+	overflow: hidden;
+}
